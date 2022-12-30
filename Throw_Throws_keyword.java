@@ -13,7 +13,7 @@ class NegativeRadiusException extends Exception {
   } 
 }
 
-public class Throw_keyword {
+public class Throw_Throws_keyword {
   // Calculate the area of a circle with given radius
   public static double area(int r) throws NegativeRadiusException { // throws keyword is used here
     // If the radius is negative, throw a NegativeRadiusException
