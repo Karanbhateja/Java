@@ -77,6 +77,13 @@ public class awt_components {
 
 ////////////////////////////////////////////////////////////////
 
+///////////////////////// Button //////////////////////////////
+
+        Button b = new Button("Click Me");
+        b.setBounds(250, 400, 80,30);
+
+/////////////////////////////////////////////////////////////////
+
         f.add(l1);
         f.add(l2);
         f.add(l3);
@@ -88,6 +95,7 @@ public class awt_components {
         f.add(li);
         f.add(c);
         f.add(a);
+        f.add(b);
         // f.setMenuBar(mb);
     }
 }
