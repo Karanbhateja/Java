@@ -1,6 +1,6 @@
 import java.awt.*;
 
-public class awt_components {
+public class AWT_Basic_Components {
     public static void main(String[] args) {
         
         // MenuBar mb = new MenuBar();
