@@ -1,4 +1,4 @@
-class A_Hello_World 
+class J1_Hello_World 
 {
     public static void main(String [] args)
     {
