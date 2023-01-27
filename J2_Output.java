@@ -1,6 +1,6 @@
 // Output can be can be printed in 3 ways in java.
 
-class B_Output {
+class J2_Output {
     public static void main(String[] args) {
         
         // 1st way is - System.out.print("what you want to print");
